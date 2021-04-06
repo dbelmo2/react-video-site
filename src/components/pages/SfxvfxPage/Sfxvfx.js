@@ -1,6 +1,6 @@
 import React from 'react'
-import Footer from '../react-video-site/../react-video-site/Footer'
-import "./react-video-site/Sfxvfx.css";
+import Footer from '../../Footer'
+import "./Sfxvfx.css";
 
 function Sfxvfx() {
     return (
