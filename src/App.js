@@ -17,7 +17,7 @@ function App() {
     <Router>
       <Navbar/>
       <Switch>
-        <Route path='/react-studio-site' exact component={Home} />
+        <Route path='/react-video-site' exact component={Home} />
         <Route path='/Cinema' component={Cinema}/>
         <Route path='/About' component={About}/>
         <Route path='/Photography' component={Photography}/>
