@@ -2,7 +2,7 @@ export const profileOneData = {
     name: "Don M. Spann III",
     desc: "Actor",
     link: "https://www.instagram.com/gods.servant.3/?hl=en",
-    img: "./react-video-stie/images/about-profile-1.png"
+    img: "./react-video-site/images/about-profile-1.png"
 }
 
 export const profileTwoData = {
