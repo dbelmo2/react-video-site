@@ -19,15 +19,15 @@ function VideographyHero() {
                 </div>
                 <div className="VideographyHero--partners-wrapper">
                     <div className="VideographyHero--partners-bar">
-                        <img className={"VideographyHero--image-style"} alt="partner-logo" src=".././images/VideographyImages/netflix-logo.png"/>
-                        <img className={"VideographyHero--image-style"} alt="partner-logo" src=".././images/VideographyImages/gma-logo.png"/>
-                        <img className={"VideographyHero--image-style"} alt="partner-logo" src=".././images/VideographyImages/today-logo.png"/>
+                        <img className={"VideographyHero--image-style"} alt="partner-logo" src="./react-video-site/images/VideographyImages/netflix-logo.png"/>
+                        <img className={"VideographyHero--image-style"} alt="partner-logo" src="./react-video-site/images/VideographyImages/gma-logo.png"/>
+                        <img className={"VideographyHero--image-style"} alt="partner-logo" src="./react-video-site/images/VideographyImages/today-logo.png"/>
 
                     </div>
                     <div className="VideographyHero--partners-bar">
-                        <img className={"VideographyHero--image-style"} alt="partner-logo" src=".././images/VideographyImages/popsugar-logo.png"/>
-                        <img className={"VideographyHero--image-style"} alt="partner-logo" src=".././images/VideographyImages/cbs-logo.png"/>
-                        <img className={"VideographyHero--image-style"} alt="partner-logo" src=".././images/VideographyImages/brides-logo.png"/>
+                        <img className={"VideographyHero--image-style"} alt="partner-logo" src="./react-video-site/images/VideographyImages/popsugar-logo.png"/>
+                        <img className={"VideographyHero--image-style"} alt="partner-logo" src="./react-video-site/images/VideographyImages/cbs-logo.png"/>
+                        <img className={"VideographyHero--image-style"} alt="partner-logo" src="./react-video-site/images/VideographyImages/brides-logo.png"/>
 
                     </div>
 

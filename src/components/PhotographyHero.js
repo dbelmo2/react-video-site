@@ -17,7 +17,7 @@ function PhotographyHero() {
                     </div>
                 </div>
                 <div className="photography--image-wrapper">
-                    <img src=".././images/PhotographyImages/pg13.jpg" className="photography--img" />
+                    <img src="./react-video-site/images/PhotographyImages/pg13.jpg" className="photography--img" />
                 </div>
 
             </div>

@@ -47,7 +47,7 @@ function WelcomeSection() {
         <div className="welcome--container">
             <div data-aos="fade-down" className="welcome--pane">
                 <div data-aos="fade-up" className="welcome--logo-container">
-                        <img src=".././images/white-blue-logo.png" alt="krezzy-logo" className="welcome--logo"/>
+                        <img src="./images/white-blue-logo.png" alt="krezzy-logo" className="welcome--logo"/>
                 </div>
                 <div data-aos="fade-down" className="welcome--info-container">
 

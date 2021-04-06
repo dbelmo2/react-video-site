@@ -54,7 +54,7 @@ function Navbar() {
     <IconContext.Provider value={{ color: '#fff'}}>
     <div className="navbar">
       <div className="navbar-container container">
-        <Link to='/' className="navbar-logo" onClick={closeMobileMenu}>
+        <Link to='/react-video-site' className="navbar-logo" onClick={closeMobileMenu}>
           
           <img alt='' src="images/krezzy-logo-darkbg.png" style={styles.bannerLogo}/>
           Krezzyy Studios
@@ -66,7 +66,7 @@ function Navbar() {
 
         <ul className={click ? 'nav-menu active' : 'nav-menu'}>
           <li className='nav-item'>
-            <Link to='/' className='nav-links' onClick={closeMobileMenu}>
+            <Link to='/react-video-site' className='nav-links' onClick={closeMobileMenu}>
               Home
             </Link>
           </li>

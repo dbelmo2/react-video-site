@@ -33,7 +33,7 @@ function ContactHero() {
         <div className="contact--container">
             <div className="contact--wrapper">
                 <div className="contact--banner-top">
-                    <img src=".././images/krezzy-logo-darkbg.png" alt="krezzyy-logo" className="contact--logo-style"/>
+                    <img src="./react-video-site/images/krezzy-logo-darkbg.png" alt="krezzyy-logo" className="contact--logo-style"/>
                 </div>
                 <div className="contact--info-bar">
                     <div className="contact--info-bar-item">
