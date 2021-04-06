@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-video-site/static/css/main.6313e18f.chunk.css",
+    "main.css": "/react-video-site/static/css/main.94570f2c.chunk.css",
     "main.js": "/react-video-site/static/js/main.8b1df34e.chunk.js",
     "main.js.map": "/react-video-site/static/js/main.8b1df34e.chunk.js.map",
     "runtime-main.js": "/react-video-site/static/js/runtime-main.a4803f53.js",
@@ -12,14 +12,14 @@
     "static/js/3.377fb57d.chunk.js.map": "/react-video-site/static/js/3.377fb57d.chunk.js.map",
     "index.html": "/react-video-site/index.html",
     "static/css/2.7fc9bc2b.chunk.css.map": "/react-video-site/static/css/2.7fc9bc2b.chunk.css.map",
-    "static/css/main.6313e18f.chunk.css.map": "/react-video-site/static/css/main.6313e18f.chunk.css.map",
+    "static/css/main.94570f2c.chunk.css.map": "/react-video-site/static/css/main.94570f2c.chunk.css.map",
     "static/js/2.b1409f63.chunk.js.LICENSE.txt": "/react-video-site/static/js/2.b1409f63.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a4803f53.js",
     "static/css/2.7fc9bc2b.chunk.css",
     "static/js/2.b1409f63.chunk.js",
-    "static/css/main.6313e18f.chunk.css",
+    "static/css/main.94570f2c.chunk.css",
     "static/js/main.8b1df34e.chunk.js"
   ]
 }
