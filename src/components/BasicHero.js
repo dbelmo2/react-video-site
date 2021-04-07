@@ -48,7 +48,7 @@ function BasicHero({
                     
                 </div>
                 <div className="BasicHero--image-container">
-                    <img className={isTop ? "BasicHero--logo-style" : "BasicHero--image-style"} src={image}></img>
+                    <img className={isTop ? "BasicHero--logo-style" : "BasicHero--image-style"} alt="" src={image}></img>
                 </div>
 
 

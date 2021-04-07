@@ -21,7 +21,7 @@ function AboutCinemaHero() {
                         <div className="CinemaHero--profile-wrapper"> 
 
                             <div className="CinemaHero--photo-container">
-                                <img className= "CinemaHero--img-style" src={profileOneData.img} alt="profile-image"/>
+                                <img className= "CinemaHero--img-style" src={profileOneData.img} alt=""/>
                             </div>
                             <div className="CinemaHero--desc-wrapper">
                                 <div className="CinemaHero--desc-header-container"> 
@@ -41,7 +41,7 @@ function AboutCinemaHero() {
                             <div className="CinemaHero--profile-wrapper"> 
 
                                 <div className="CinemaHero--photo-container">
-                                    <img className= "CinemaHero--img-style" src={profileTwoData.img } alt="profile-image"/>
+                                    <img className= "CinemaHero--img-style" src={profileTwoData.img } alt=""/>
                                 </div>
                                 <div className="CinemaHero--desc-wrapper">
                                     <div className="CinemaHero--desc-header-container"> 
@@ -60,7 +60,7 @@ function AboutCinemaHero() {
                             <div className="CinemaHero--profile-wrapper"> 
 
                                 <div className="CinemaHero--photo-container">
-                                    <img className= "CinemaHero--img-style" src={profileThreeData.img} alt="profile-image"/>
+                                    <img className= "CinemaHero--img-style" src={profileThreeData.img} alt=""/>
                                 </div>
                                 <div className="CinemaHero--desc-wrapper">
                                     <div className="CinemaHero--desc-header-container"> 

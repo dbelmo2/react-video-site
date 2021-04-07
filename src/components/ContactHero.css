@@ -102,20 +102,30 @@
 }
 
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 900px) {
     .contact--info-bar-item {
         width: 20vw;
     }
     .contact--form-wrapper {
-        width: 60vw;
+        width: 80vw;
     
     }
     .contact--form-style {
 
-        width: 60vw;
+        width: 80vw;
         
     }
     .contact--item-body {
         font-size: small;
     }
+    .contact--wrapper {
+        width: 90vw;
+    }
+    .contact--info-bar-item {
+        width: 30vw;
+    }
+    .contact--body {
+        height: 45vw;
+    }
+    
 }

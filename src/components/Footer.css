@@ -104,7 +104,7 @@
 }
 .footer__icon-bar-wrapper {
     display: flex;
-    justify-content: start;
+    justify-content: flex-start;
     flex-direction: row;
 }
 
