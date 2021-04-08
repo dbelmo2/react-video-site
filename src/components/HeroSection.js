@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import { Link } from 'react-router-dom';
 import { Button } from './Button';
 import './HeroSection.css';
 
@@ -38,8 +39,9 @@ function HeroSection() {
                 
                 <h2 className="video-header-2">Any reason to celebrate</h2>
 
-
+                <Link to='/Cinema' className="video-button-link">
                 <Button buttonStyle='btn--outline video' buttonSize="btn--medium"> EXPLORE </Button>
+                </Link>
             
             </div>
         </div>

@@ -49,11 +49,9 @@ function VideoGallery({galleryData}) {
     const offMute = (id) => {
         var element = document.getElementById(id);
         element.muted = "muted";
-        element.pause();
     }
     const onMute = (id) => {
         var element = document.getElementById(id);
-        element.play();
         element.muted = "";
     }
     
@@ -79,7 +77,7 @@ function VideoGallery({galleryData}) {
                                 <div onMouseEnter={handleVideoHover(idex)} className={item.inverse ? "gallery--video-container-inverse": "gallery--video-container"}  onMouseLeave={handleVideoNoHover(idex)}>
 
                                     <div className="gallery--video-background">
-                                        <video onMouseOver="this.play()" onMouseOut="this.pause();this.currentTime=0;" id={idex} className='gallery--video-style'>
+                                        <video id={idex} className='gallery--video-style' autoPlay loop muted>
                                             <source src={item.src} type='video/mp4' />
                                         </video>
                                     </div>
